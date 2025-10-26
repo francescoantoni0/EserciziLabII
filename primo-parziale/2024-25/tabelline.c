@@ -3,7 +3,8 @@
 #include <string.h>
 #include <stdlib.h>
 
-/*Esercizio 1 Scrivere un programma tabelline che invocato scrivendo
+/*Esercizio 1
+Scrivere un programma tabelline che invocato scrivendo
 
 tabelline n1 n2 n2 ....
 per ogni intero N sulla linea di comando crea il file N.tab contenente la tabellina (i multipli da 1 a 10) del numero N. Ad esempio scrivendo

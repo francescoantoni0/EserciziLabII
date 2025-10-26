@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 /*
+Esercizio 2
 Scrivere un programma triangolo che invocato scrivendo:
 
 triangolo nomefile
